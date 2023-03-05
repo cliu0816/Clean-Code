@@ -1,2 +1,2 @@
 # Clean-Code
-Notes of the book Clean Code
+This is my note for the Book Clean Code 
